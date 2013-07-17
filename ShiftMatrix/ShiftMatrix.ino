@@ -1,4 +1,3 @@
-
 int cols[] =
 {//1rgb 2rgb 3rgb....
   9, 28, 1,
